@@ -8,3 +8,4 @@ Stakeholders:
 - Colleges ,Schools or any other institutions.  
 Upcoming Features:  
 - Generating questions using AI.  
+Technologies Used: HTML, CSS, JS, Node.JS
